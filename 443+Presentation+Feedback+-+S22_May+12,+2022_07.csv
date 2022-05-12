@@ -1,0 +1,436 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,Section,Presenter Name,Presentation Skills_1,Presentation Skills_2,Presentation Skills_3,Presentation Skills_4,Presentation Skills_5,Presentation Skills_6,Presentation Skills_7,Visuals_1,Visuals_2,Visuals_3,Visuals_4,Visuals_5,Visuals_6,Content_1,Content_2,Content_3,Content_4,Content_5,Organization_1,Organization_2,Organization_3,Organization_4,Organization_5,Organization_6,Rating,Comments
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,Section,Presenter Name,"Presentation Skills - Voice (loud, clear)",Presentation Skills - Clear explanation of information,Presentation Skills - Avoided terms such as 'um' and 'like',Presentation Skills - Preparedness (not completely reliant on notes/slides),Presentation Skills - Appropriate professional affect and composure,Presentation Skills - Interaction with audience/audience engagement,Presentation Skills - Duration (ends within 2 minutes of allotted time),Visuals - Appropriate number of slides (8-15),Visuals - Limited text to key terms,Visuals - Text easy to read,"Visuals - Used samples, if applicable",Visuals - Professional and tasteful color/style,Visuals - Consistency in design/font throughout presentation,Content - Did the presentation include sufficient information in each of the following areas: - Introduction/background information,Content - Did the presentation include sufficient information in each of the following areas: - Tasks accomplished/performed,Content - Did the presentation include sufficient information in each of the following areas: - Next steps/future plans,Content - Did the presentation include sufficient information in each of the following areas: - Summary of experience,Content - Did the presentation include sufficient information in each of the following areas: - Asks audience for questions,Organization/Overall Presentation - Informationw as presented in a logical order,Organization/Overall Presentation - Amount of balance of information,Organization/Overall Presentation - Level of complexity appropriate for the audience,Organization/Overall Presentation - Demonstrates knowledge of the topic,Organization/Overall Presentation - Creative presentation,Organization/Overall Presentation - Interesting presentation,"Overall, how would you rate this presentation?",Overall Comments / Suggestions
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID10""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID1_2""}","{""ImportId"":""QID1_3""}","{""ImportId"":""QID1_4""}","{""ImportId"":""QID1_5""}","{""ImportId"":""QID1_6""}","{""ImportId"":""QID1_7""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID3_2""}","{""ImportId"":""QID3_3""}","{""ImportId"":""QID3_4""}","{""ImportId"":""QID3_5""}","{""ImportId"":""QID3_6""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID4_2""}","{""ImportId"":""QID4_3""}","{""ImportId"":""QID4_4""}","{""ImportId"":""QID4_5""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID5_2""}","{""ImportId"":""QID5_3""}","{""ImportId"":""QID5_4""}","{""ImportId"":""QID5_5""}","{""ImportId"":""QID5_6""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7_TEXT""}"
+4/12/22 11:48,4/12/22 12:01,0,100,767,1,4/12/22 12:01,R_1o7LP9BE43nKPMe,anonymous,EN,3,Julia Tamiolakis,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 11:48,4/12/22 12:02,0,100,845,1,4/12/22 12:02,R_29t3KeFYJTH1RFe,anonymous,EN,3,Julia Tamiolakis,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 11:48,4/12/22 12:02,0,100,849,1,4/12/22 12:02,R_1I7dAelmD0zCKYz,anonymous,EN,3,Julia Tamiolakis,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/12/22 11:51,4/12/22 12:02,0,100,696,1,4/12/22 12:02,R_29vtSibYVYJoxxY,anonymous,EN,3,Julia Tamiolakis,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 11:50,4/12/22 12:03,0,100,738,1,4/12/22 12:03,R_3iDaqrYZSCeOlZm,anonymous,EN,3,Julia Tamiolakis,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 11:48,4/12/22 12:03,0,100,871,1,4/12/22 12:03,R_3hannWvOTAv2kwI,anonymous,EN,3,Julia Tamiolakis,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 12:04,4/12/22 12:05,0,100,28,1,4/12/22 12:05,R_XZAZWyEYmZlamu5,anonymous,EN,2,Julia Tamiolakis,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 11:52,4/12/22 12:05,0,100,750,1,4/12/22 12:05,R_vxAuuIH48roxBV7,anonymous,EN,3,Julia Tamiolakis,3,3,2,2,2,2,2,2,2,2,3,2,2,3,2,2,3,3,2,2,2,3,3,3,6,
+4/12/22 11:51,4/12/22 12:05,0,100,834,1,4/12/22 12:05,R_2t6jbXtZMVEciif,anonymous,EN,3,Julia Tamiolakis,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,"Was very good overall, nothing really to comment on."
+4/12/22 12:02,4/12/22 12:17,0,100,877,1,4/12/22 12:17,R_pGV7yRqTt1NOdWx,anonymous,EN,3,Gabriel Moses,3,3,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/12/22 12:05,4/12/22 12:17,0,100,693,1,4/12/22 12:17,R_Ol15hmCpuasSgqB,anonymous,EN,3,Gabriel Moses,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Other than filler words very good.
+4/12/22 12:03,4/12/22 12:17,0,100,833,1,4/12/22 12:17,R_Rb0oFSM3CNx7QsN,anonymous,EN,3,Gabriel Moses,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 11:48,4/12/22 12:17,0,100,1738,1,4/12/22 12:17,R_3LijWITk5bxobbc,anonymous,EN,3,Gabriel Moses ,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 12:06,4/12/22 12:17,0,100,631,1,4/12/22 12:17,R_7PLOt9gP9pGe96p,anonymous,EN,2,Gabriel Moses,2,2,3,3,3,2,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,6,
+4/12/22 12:06,4/12/22 12:17,0,100,633,1,4/12/22 12:17,R_3dEsQex77SbT05y,anonymous,EN,3,Gabriel Moses,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 12:06,4/12/22 12:17,0,100,632,1,4/12/22 12:17,R_1lhtVDOR7rwSetM,anonymous,EN,3,Gabriel Moses,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 12:04,4/12/22 12:17,0,100,803,1,4/12/22 12:17,R_3sACNskvcnyLhnt,anonymous,EN,3,Gabriel Moses,3,3,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/12/22 12:08,4/12/22 12:19,0,100,668,1,4/12/22 12:19,R_2cdemhDcTc5CLNo,anonymous,EN,3,Gabriel Moses,2,2,2,3,2,2,2,3,2,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/12/22 12:17,4/12/22 12:24,0,100,439,1,4/12/22 12:24,R_QiVIXvfRG5IvaKd,anonymous,EN,3,Kiiernan Garcia ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 12:19,4/12/22 12:24,0,100,325,1,4/12/22 12:24,R_3fPsezHr6f0lZUu,anonymous,EN,3,Kiiernan Garcia ,3,3,2,2,2,3,2,3,2,3,2,2,3,2,3,2,3,2,2,3,2,3,2,2,5,
+4/12/22 12:17,4/12/22 12:25,0,100,480,1,4/12/22 12:25,R_1QGgpgfkb28L7zK,anonymous,EN,3,Kiiernan Garcia ,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,6,
+4/12/22 12:17,4/12/22 12:25,0,100,478,1,4/12/22 12:25,R_wOgaBFt5RWdsD1T,anonymous,EN,2,Kiiernan Garcia ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 12:17,4/12/22 12:25,0,100,479,1,4/12/22 12:25,R_Xhx1OUUYoli5fVv,anonymous,EN,3,Kiiernan Garcia ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 12:18,4/12/22 12:25,0,100,390,1,4/12/22 12:25,R_0xGRNdrjthyMXT3,anonymous,EN,3,Kiiernan Garcia ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/12/22 12:17,4/12/22 12:25,0,100,454,1,4/12/22 12:25,R_1FsMxaYau33Sia8,anonymous,EN,3,Kiiernan Garcia ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/12/22 12:17,4/12/22 12:25,0,100,482,1,4/12/22 12:25,R_4ZrNLdegIe2aWHv,anonymous,EN,3,Kiiernan Garcia ,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,2,3,3,3,3,3,3,7,
+4/12/22 12:19,4/12/22 12:25,0,100,404,1,4/12/22 12:26,R_1ItPHTqJVrybDab,anonymous,EN,3,Kiiernan Garcia ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 10:19,4/14/22 10:29,0,100,596,1,4/14/22 10:29,R_1BRcUey2f1rGlyD,anonymous,EN,2,Adelina D'Orazio,2,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,"Very descriptive, good presentation!"
+4/14/22 10:19,4/14/22 10:29,0,100,598,1,4/14/22 10:29,R_20NdgtT2HGLxpSW,anonymous,EN,2,Adelina D'Orazio,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:23,4/14/22 10:29,0,100,369,1,4/14/22 10:29,R_1gpPDvbp4um80wU,anonymous,EN,2,Adelina D'Orazio,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,2,5,"Overall she had a good presentation, she was knowledgeable and did make eye contact with the class. Her presentation wasn't very creative but was good with not having a lot of text on slides. "
+4/14/22 10:20,4/14/22 10:30,0,100,587,1,4/14/22 10:30,R_3PG3D2rTFDvlKTq,anonymous,EN,2,Adelina D'Orazio,2,2,2,1,2,1,2,3,1,3,1,3,3,3,3,3,3,3,3,2,1,3,2,2,4,"For the people that didn't do research, this presentation was a bit word loaded and context was missing, also this was very similar to last semester's presentation."
+4/14/22 10:25,4/14/22 10:30,0,100,308,1,4/14/22 10:30,R_ykxsNWMEUrC5MNb,anonymous,EN,2,Adelina D'Orazio,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 10:22,4/14/22 10:30,0,100,440,1,4/14/22 10:30,R_1lcPyY2PTxHvOZM,anonymous,EN,2,Adelina D'Orazio,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:20,4/14/22 10:30,0,100,580,1,4/14/22 10:30,R_3F36dSPMA14UGrc,anonymous,EN,2,Adelina D'Orazio,3,3,3,2,3,2,3,3,3,3,2,2,2,2,3,2,3,3,2,3,3,3,2,2,6,
+4/14/22 10:20,4/14/22 10:30,0,100,602,1,4/14/22 10:30,R_31j8ZZDNNwolu6z,anonymous,EN,2,Adelina D'Orazio,2,3,3,3,3,3,2,2,3,3,2,3,3,3,3,3,3,2,3,2,3,3,3,2,6,"Very good presentation, seemed very into the research and conveyed it very well"
+4/14/22 10:19,4/14/22 10:31,0,100,705,1,4/14/22 10:31,R_2aPl2AUFjFLMBja,anonymous,EN,2,Adelina D'Orazio,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:19,4/14/22 10:31,0,100,706,1,4/14/22 10:31,R_1MSsb3rxslsQeXJ,anonymous,EN,2,Adelina D'Orazio,3,3,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:20,4/14/22 10:31,0,100,659,1,4/14/22 10:31,R_1jV3FxK2X4bXrLb,anonymous,EN,2,Adelina D'Orazio,2,3,3,2,3,2,3,3,3,3,3,3,3,2,3,3,3,2,3,3,3,3,3,3,5,voice was good maybe a little bit louder. It was very well explain the researcher. very knowledgeable on the researcher. 
+4/14/22 10:19,4/14/22 10:31,0,100,716,1,4/14/22 10:31,R_1jDtyxOVhisxLqc,anonymous,EN,2,Adelina D'Orazio,3,3,2,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,6,It seems like she improved since last semester as far as interest-wise. Interesting points made about her research.
+4/14/22 10:28,4/14/22 10:31,0,100,189,1,4/14/22 10:31,R_2433ExoOSiEBFmv,anonymous,EN,2,Adelina D'Orazio,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 10:21,4/14/22 10:31,0,100,609,1,4/14/22 10:31,R_3MaE9RIUIzw0kzQ,anonymous,EN,2,Adelina D'Orazio,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,6,
+4/14/22 10:20,4/14/22 10:31,0,100,641,1,4/14/22 10:31,R_6nv94CnNuZxxH1L,anonymous,EN,2,Adelina D'Orazio,3,3,2,3,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:20,4/14/22 10:31,0,100,664,1,4/14/22 10:31,R_3HYL7CW7Dk3O5eO,anonymous,EN,2,Adelina D'Orazio,2,2,2,1,2,1,2,2,3,3,3,2,3,2,2,2,2,2,2,2,2,2,1,2,3,
+4/14/22 10:29,4/14/22 10:35,0,100,364,1,4/14/22 10:35,R_2VJxzctR3ZlFRr4,anonymous,EN,2,Samantha Heaney,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:31,4/14/22 10:37,0,100,377,1,4/14/22 10:37,R_bJwkdYtbRg8CsNz,anonymous,EN,2,Samantha Heaney,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Great presentation!
+4/14/22 10:31,4/14/22 10:37,0,100,405,1,4/14/22 10:37,R_2v8RRa28U0ebixj,anonymous,EN,2,Samantha Heaney,3,3,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+4/14/22 10:31,4/14/22 10:37,0,100,401,1,4/14/22 10:37,R_2qvNxvQQSfgMyzh,anonymous,EN,2,Samantha Heaney,3,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:20,4/14/22 10:38,0,100,1035,1,4/14/22 10:38,R_25T7c61IIzhmuLU,anonymous,EN,2,Samantha Heaney,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 10:31,4/14/22 10:38,0,100,377,1,4/14/22 10:38,R_2wLESt8Awfi2J98,anonymous,EN,2,Samantha Heaney,3,3,3,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:31,4/14/22 10:38,0,100,408,1,4/14/22 10:38,R_2ussUHBhCNjNcfI,anonymous,EN,2,Samantha Heaney,3,3,1,1,3,2,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,The formatting could have been a bit neater
+4/14/22 10:30,4/14/22 10:38,0,100,443,1,4/14/22 10:38,R_10CxgLZ8MaJUaR2,anonymous,EN,2,Samantha Heaney,3,3,3,2,2,2,2,2,1,3,2,3,3,2,2,3,3,2,2,2,2,3,3,3,5,
+4/14/22 10:31,4/14/22 10:38,0,100,381,1,4/14/22 10:38,R_3fkReHT8jtHlIWd,anonymous,EN,2,Samantha Heaney,3,2,1,2,2,1,3,3,1,1,2,2,2,2,2,3,2,3,2,2,2,2,2,2,5,Format was hard to read
+4/14/22 10:31,4/14/22 10:38,0,100,405,1,4/14/22 10:38,R_2TKSM6mOeArUXDL,anonymous,EN,2,Samantha Heaney,3,3,2,1,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+4/14/22 10:31,4/14/22 10:38,0,100,401,1,4/14/22 10:38,R_1iqHIwXLwQvGf3p,anonymous,EN,2,Samantha Heaney,3,3,3,3,3,3,3,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,2,2,6,Great work!
+4/14/22 10:31,4/14/22 10:38,0,100,408,1,4/14/22 10:38,R_XESziOf28jK7d05,anonymous,EN,2,Samantha Heaney,3,3,1,2,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,"reading off slides, not dressed professional, um"
+4/14/22 10:31,4/14/22 10:38,0,100,422,1,4/14/22 10:38,R_2tbAN8iWOYMgcVo,anonymous,EN,2,Samantha Heaney,2,2,1,1,1,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,
+4/14/22 10:31,4/14/22 10:38,0,100,434,1,4/14/22 10:38,R_sForBhN44mjjy4F,anonymous,EN,2,Samantha Heaney,3,3,1,2,2,2,2,3,2,3,3,3,3,3,3,2,3,3,3,3,3,3,2,2,5,She seems like she was able to explain what she coordinated for the program. Very involved and creative. 
+4/14/22 10:31,4/14/22 10:38,0,100,433,1,4/14/22 10:38,R_OdTJtDlAGaY9cLT,anonymous,EN,2,Samantha Heaney,3,3,2,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:30,4/14/22 10:39,0,100,553,1,4/14/22 10:39,R_3Lb9mVc0rYeZMcW,anonymous,EN,2,Samantha Heaney,3,3,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:30,4/14/22 10:39,0,100,561,1,4/14/22 10:39,R_3JCzbaOZDB5Tqgm,anonymous,EN,2,Samantha Heaney,3,2,1,1,2,1,3,3,1,2,2,2,3,3,3,3,3,3,3,2,3,3,2,2,5,
+4/14/22 10:31,4/14/22 10:40,0,100,530,1,4/14/22 10:40,R_24jxUFF66YErRso,anonymous,EN,2,Samantha Heaney,3,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,2,2,2,2,3,2,2,4,The sample slide had a lot of information it made it a little  hard to follow. Good Job overall. 
+4/14/22 10:39,4/14/22 10:42,0,100,173,1,4/14/22 10:42,R_p3n4FU23EP2JDRT,anonymous,EN,2,Melissa Toscano,3,2,2,2,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,6,
+4/14/22 10:38,4/14/22 10:45,0,100,387,1,4/14/22 10:45,R_1rIcG1M5W6IUdk8,anonymous,EN,2,Melissa Toscano,3,3,1,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Overall great job!
+4/14/22 10:39,4/14/22 10:45,0,100,363,1,4/14/22 10:45,R_3Jlq0FpqRDnn0Bt,anonymous,EN,2,Melissa Toscano,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,"Overall she had a very good presentation, and was very knowledgeable on her internship site."
+4/14/22 10:35,4/14/22 10:45,0,100,618,1,4/14/22 10:45,R_22y5uNMTsbfkBsc,anonymous,EN,2,Melissa Toscano,3,3,2,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:38,4/14/22 10:45,0,100,470,1,4/14/22 10:46,R_3MljjF8MGD5KE7D,anonymous,EN,2,Melissa Toscano,3,3,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:38,4/14/22 10:46,0,100,478,1,4/14/22 10:46,R_2ciQcG8towJGqHM,anonymous,EN,2,Melissa Toscano,2,3,2,2,2,2,2,2,2,2,3,3,3,3,3,2,3,2,3,3,2,3,3,3,6,
+4/14/22 10:39,4/14/22 10:46,0,100,398,1,4/14/22 10:46,R_3qI3aCiaC2PEQL3,anonymous,EN,2,Melissa Toscano,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:40,4/14/22 10:46,0,100,351,1,4/14/22 10:46,R_1BKIfQh03yGo0Sd,anonymous,EN,2,Melissa Toscano,2,2,2,3,2,2,2,2,2,3,3,2,3,2,2,3,3,2,2,2,3,3,3,3,6,I like how there are a lot of visual. It help to get more a understand the internship and working in a school.  
+4/14/22 10:40,4/14/22 10:46,0,100,383,1,4/14/22 10:46,R_2zjNjbYi7YtLmn4,anonymous,EN,2,Melissa Toscano,2,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 10:38,4/14/22 10:46,0,100,493,1,4/14/22 10:46,R_2xRUfhQetEJZICL,anonymous,EN,2,Melissa Toscano,3,3,1,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+4/14/22 10:38,4/14/22 10:46,0,100,476,1,4/14/22 10:46,R_2SHzJcPoZfLZSkb,anonymous,EN,2,Melissa Toscano,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:40,4/14/22 10:46,0,100,373,1,4/14/22 10:46,R_1NlGsf5mUkKjZKO,anonymous,EN,2,Melissa Toscano,2,3,2,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:38,4/14/22 10:47,0,100,510,1,4/14/22 10:47,R_40ynHw760UkD1Lj,anonymous,EN,2,Melissa Toscano,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 10:38,4/14/22 10:47,0,100,554,1,4/14/22 10:47,R_33xaFtXp1zlTF6z,anonymous,EN,2,Melissa Toscano,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 10:38,4/14/22 10:47,0,100,511,1,4/14/22 10:47,R_2xMnZ17XxtpIbeG,anonymous,EN,2,Melissa Toscano,3,3,2,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,She is passionate about this field of interest and works well with kids by helping them out. Very interesting!
+4/14/22 10:38,4/14/22 10:47,0,100,519,1,4/14/22 10:47,R_tFLca3Cl7obLaEN,anonymous,EN,2,Melissa Toscano,3,3,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,"awesome, creative, colorful slides"
+4/14/22 10:38,4/14/22 10:47,0,100,537,1,4/14/22 10:47,R_33dKVaklztXaDVQ,anonymous,EN,2,Melissa Toscano,3,3,1,2,2,2,3,2,3,3,2,2,3,3,2,3,3,3,2,2,2,2,3,3,6,
+4/14/22 10:39,4/14/22 10:47,0,100,494,1,4/14/22 10:47,R_2DOdPfLdPyG4ciD,anonymous,EN,2,Melissa Toscano,2,3,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,6,
+4/14/22 10:48,4/14/22 10:54,0,100,352,1,4/14/22 10:54,R_5znuXsVFZKxqcJH,anonymous,EN,2,Aliyah Petrone,3,3,3,3,3,3,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,1,3,5,"Very passionate about internship project, and very knowledgeable on the senior project. She included all the different required sections."
+4/14/22 10:45,4/14/22 10:54,0,100,505,1,4/14/22 10:54,R_9MmwVps0FSj797P,anonymous,EN,2,Aliyah Petrone,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:47,4/14/22 10:54,0,100,431,1,4/14/22 10:54,R_2xJXlCRYUecjbBc,anonymous,EN,2,Aliyah Petrone,3,3,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,interesting
+4/14/22 10:42,4/14/22 10:54,0,100,734,1,4/14/22 10:54,R_1gGCpXw3QIBdBaO,anonymous,EN,2,Aliyah Petrone,2,2,2,3,3,2,2,3,2,1,3,2,2,3,3,3,3,3,2,2,3,3,2,3,5,
+4/14/22 10:46,4/14/22 10:55,0,100,548,1,4/14/22 10:55,R_262VCLsozM7BbK4,anonymous,EN,2,Aliyah Petrone,3,3,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:47,4/14/22 10:55,0,100,484,1,4/14/22 10:55,R_3oLBpQylmoidVxl,anonymous,EN,2,Aliyah Petrone,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 10:47,4/14/22 10:55,0,100,487,1,4/14/22 10:55,R_1I5TvMymG9LgQMs,anonymous,EN,2,Aliyah Petrone,2,2,1,1,2,1,2,2,1,1,2,2,2,1,2,2,2,3,1,2,2,2,2,2,3,
+4/14/22 10:48,4/14/22 10:55,0,100,452,1,4/14/22 10:55,R_1g77iJqYmoOVheu,anonymous,EN,2,Aliyah Petrone,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,"Super passionate about topic, and it shows!"
+4/14/22 10:46,4/14/22 10:55,0,100,565,1,4/14/22 10:55,R_2VvuUnYNbO0tMNP,anonymous,EN,2,Aliyah Petrone,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,3,3,2,3,3,2,3,2,2,6,
+4/14/22 10:46,4/14/22 10:55,0,100,544,1,4/14/22 10:55,R_1QooxdZEjhrZjRc,anonymous,EN,2,Aliyah Petrone,3,3,2,2,3,2,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+4/14/22 10:46,4/14/22 10:55,0,100,528,1,4/14/22 10:55,R_3KvhO8JUr4cbeCf,anonymous,EN,2,Aliyah Petrone,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:49,4/14/22 10:55,0,100,410,1,4/14/22 10:55,R_3HtvrBH065S1LjF,anonymous,EN,2,Aliyah Petrone,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Very informational
+4/14/22 10:46,4/14/22 10:56,0,100,583,1,4/14/22 10:56,R_1QuW6cX8oiR33wt,anonymous,EN,2,Aliyah Petrone,2,2,2,2,2,2,2,2,2,3,3,3,3,1,2,3,3,2,1,2,2,2,3,3,6,The presenter was very interested in what they did for researcher. They did a good job at explaining what task of the researcher. 
+4/14/22 10:47,4/14/22 10:56,0,100,513,1,4/14/22 10:56,R_2aUD7brLRFJoNRr,anonymous,EN,2,Aliyah Petrone,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:47,4/14/22 10:56,0,100,545,1,4/14/22 10:56,R_1MQaJ7k6qRLWGwu,anonymous,EN,2,Aliyah Petrone,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 10:47,4/14/22 10:56,0,100,550,1,4/14/22 10:56,R_2zTic7DSDMt72Nm,anonymous,EN,2,Aliyah Petrone,3,3,2,2,3,3,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Interesting topic because of an underrated topic of interest. She seems passionate and determined to continue to explore this topic in her future career.
+4/14/22 10:47,4/14/22 10:56,0,100,564,1,4/14/22 10:56,R_3J9MN696eY147od,anonymous,EN,2,Aliyah Petrone,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 10:47,4/14/22 10:56,0,100,583,1,4/14/22 10:56,R_2PbYFuia6dc4hZk,anonymous,EN,2,Aliyah Petrone,3,3,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:57,4/14/22 10:59,0,100,108,1,4/14/22 10:59,R_3nIyBQHy0X9Y98h,anonymous,EN,2,Guadalupe Pedraza,3,3,2,3,3,3,2,2,2,3,3,3,3,2,2,2,2,2,3,2,2,2,2,2,6,
+4/14/22 10:55,4/14/22 11:01,0,100,353,1,4/14/22 11:01,R_1OwMI4McJpbHVY5,anonymous,EN,2,Guadalupe Pedraza,3,3,1,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,6,
+4/14/22 10:54,4/14/22 11:01,0,100,451,1,4/14/22 11:01,R_2CwWvsNQyaWGLVW,anonymous,EN,2,Guadalupe Pedraza,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:56,4/14/22 11:02,0,100,370,1,4/14/22 11:02,R_3fB5A7nFk1wj8oV,anonymous,EN,2,Guadalupe Pedraza,3,3,1,2,2,2,3,3,3,3,1,3,3,3,3,2,2,2,3,2,2,3,1,2,5,"Good presentation, but seemed nervous. Good knowledge on topic. "
+4/14/22 10:58,4/14/22 11:02,0,100,255,1,4/14/22 11:02,R_CawdZF01Iroc34Z,anonymous,EN,2,Guadalupe Pedraza,3,3,3,2,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2,3,2,2,2,2,5,
+4/14/22 10:54,4/14/22 11:03,0,100,533,1,4/14/22 11:03,R_6zMeINMxZunSkCZ,anonymous,EN,2,Guadalupe Pedraza,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:56,4/14/22 11:04,0,100,448,1,4/14/22 11:04,R_2wHSpokdabW21lr,anonymous,EN,2,Guadalupe Pedraza,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:56,4/14/22 11:04,0,100,499,1,4/14/22 11:04,R_a4qs26lIgdLjpi9,anonymous,EN,2,Guadalupe Pedraza,2,3,1,3,2,2,2,3,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,5,Overall a great presentation!
+4/14/22 10:55,4/14/22 11:04,0,100,572,1,4/14/22 11:04,R_RC4Wra7JndC9WN3,anonymous,EN,2,Guadalupe Pedraza,3,3,1,3,3,3,2,3,3,3,2,2,3,3,3,3,3,3,3,2,3,3,2,2,6,
+4/14/22 10:57,4/14/22 11:07,0,100,595,1,4/14/22 11:07,R_3fxDw8pJxDjHr4M,anonymous,EN,2,Guadalupe Pedraza,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+4/14/22 10:56,4/14/22 11:09,0,100,780,1,4/14/22 11:09,R_2sZpx6SSDcLjH2F,anonymous,EN,2,Guadalupe Pedraza,3,3,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+4/14/22 10:57,4/14/22 11:09,0,100,694,1,4/14/22 11:09,R_ZqaL8wsIGlMrDEJ,anonymous,EN,2,Guadalupe Pedraza,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 10:56,4/14/22 11:09,0,100,788,1,4/14/22 11:09,R_3oYgJZah85PhCFc,anonymous,EN,2,Guadalupe Pedraza,3,2,1,1,2,2,2,3,3,3,3,3,2,3,3,3,3,2,3,3,3,3,3,2,4,She seemed nervous but kept her composure. Sometimes awkward silence but seemed like it was a great experience.
+4/14/22 10:56,4/14/22 11:10,0,100,825,1,4/14/22 11:10,R_2ePEx8hyTUyTuA4,anonymous,EN,2,Guadalupe Pedraza,3,3,2,3,2,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+4/14/22 10:55,4/14/22 11:10,0,100,902,1,4/14/22 11:10,R_3D8D34naYnYBtqm,anonymous,EN,2,Guadalupe Pedraza,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 10:56,4/14/22 11:10,0,100,836,1,4/14/22 11:10,R_BtA6BpYvwKXmuyd,anonymous,EN,2,Guadalupe Pedraza,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+4/14/22 10:46,4/14/22 11:10,0,100,1449,1,4/14/22 11:10,R_A1lbJtP5jYkc0N3,anonymous,EN,2,Guadalupe Pedraza,3,3,3,3,3,2,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,6,
+4/14/22 11:45,4/14/22 11:54,0,100,519,1,4/14/22 11:54,R_2fGLz0PTXhKm290,anonymous,EN,1,Nick Vitale,2,3,2,2,3,1,2,3,3,3,3,2,2,3,3,3,3,2,2,2,3,3,2,2,5,
+4/14/22 11:40,4/14/22 11:54,0,100,842,1,4/14/22 11:54,R_vCVgkyrW0QRidBn,anonymous,EN,1,Nick Vitale,2,3,2,3,3,2,3,3,3,2,3,2,2,3,2,3,3,2,2,3,3,3,2,3,6,
+4/14/22 11:43,4/14/22 11:54,0,100,645,1,4/14/22 11:54,R_2rVhVdv9b3xOjjm,anonymous,EN,1,Nick Vitale,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 11:44,4/14/22 11:55,0,100,616,1,4/14/22 11:55,R_OiGg0MmleA8Hr1L,anonymous,EN,1,Nick Vitale,2,2,3,2,3,3,3,3,2,2,3,2,3,3,3,3,3,3,3,3,3,3,2,2,7,
+4/14/22 11:44,4/14/22 11:56,0,100,721,1,4/14/22 11:56,R_2rup7gfVXzHXTGo,anonymous,EN,1,Nick Vitale,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Did a great job explaining his position in a clear way. It seemed like he enjoyed his internship and learned a lot of valuable information that he will take with him into the work field. Nice work! 
+4/14/22 11:48,4/14/22 11:56,0,100,464,1,4/14/22 11:56,R_3Iag9pYEF0RAxSP,anonymous,EN,1,Nick Vitale,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,The presentation was well put together. It was very clean and neat. Nick was very clear spoken.
+4/14/22 11:46,4/14/22 11:56,0,100,588,1,4/14/22 11:56,R_DCUKoSBtHBxMOiJ,anonymous,EN,1,Nick Vitale,2,3,1,3,2,2,3,2,3,3,3,2,2,3,3,3,3,1,3,2,2,2,2,3,6,
+4/14/22 11:45,4/14/22 11:56,0,100,677,1,4/14/22 11:56,R_2PdFBjx3MasSeem,anonymous,EN,1,Nick Vitale,3,3,2,3,3,3,3,3,2,3,3,2,3,3,3,3,3,3,3,3,2,3,2,2,6,answered all the prompts and was very knowledgeable 
+4/14/22 11:54,4/14/22 12:09,0,100,899,1,4/14/22 12:09,R_2BqBlqwKWLBHgFa,anonymous,EN,1,Kiana Rodriguez,2,3,2,2,3,3,3,3,1,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,6,
+4/14/22 11:56,4/14/22 12:09,0,100,773,1,4/14/22 12:09,R_3fuUZh2HJx8AF17,anonymous,EN,1,Kiana Rodriguez,3,3,2,3,2,1,3,3,2,2,3,3,3,2,3,3,3,3,3,2,2,3,2,3,6,text heavy but very informative and has gained a lot of experience. 
+4/14/22 11:54,4/14/22 12:09,0,100,924,1,4/14/22 12:09,R_9uVr9s8DcJ9fx8l,anonymous,EN,1,Kiana Rodriguez,2,3,3,2,3,3,3,3,1,1,3,3,2,2,3,3,3,3,3,3,3,3,3,3,6,
+4/14/22 11:56,4/14/22 12:10,0,100,793,1,4/14/22 12:10,R_xx74lweycsSfO5r,anonymous,EN,1,Kiana Rodriguez,1,3,3,1,3,3,3,3,1,1,3,3,2,2,3,2,2,3,2,2,3,3,3,3,6,
+4/14/22 11:56,4/14/22 12:11,0,100,863,1,4/14/22 12:11,R_ulaNPQIXMJ2W8tH,anonymous,EN,1,Kiana Rodriguez,3,3,3,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Overall the presentation was appealing creatively and it seemed like Kiana really enjoyed her internship. It connected with her on a personal level and it seemed like the experience had a positive impact on her. She did a great job answering questions from the class.
+4/14/22 11:54,4/14/22 12:11,0,100,989,1,4/14/22 12:11,R_eP8oYCp3WLIqbKx,anonymous,EN,1,Kiana Rodriguez,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Thank you for sharing! 
+4/14/22 11:55,4/14/22 12:11,0,100,957,1,4/14/22 12:11,R_3pbhTsquqhDALqN,anonymous,EN,1,Kiana Rodriguez,2,3,2,2,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/14/22 11:56,4/14/22 12:12,0,100,922,1,4/14/22 12:12,R_2D69FauvMclCJqb,anonymous,EN,1,Kiana Rodriguez,2,2,2,2,3,2,3,3,1,3,3,2,3,2,3,2,3,2,3,2,2,3,3,3,6,
+4/21/22 10:13,4/21/22 10:26,0,100,741,1,4/21/22 10:26,R_2uxsdLzHYYyfzTx,anonymous,EN,2,LilyMae Galinski,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 10:14,4/21/22 10:29,0,100,871,1,4/21/22 10:29,R_1mEKV3rssrFNn8u,anonymous,EN,2,LilyMae Galinski,3,3,1,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,3,3,5,"Overall the presentation was good but the internship wasn't talked about much, just stories."
+4/21/22 10:21,4/21/22 10:29,0,100,463,1,4/21/22 10:29,R_2tyDMESq2yXlVlz,anonymous,EN,2,LilyMae Galinski,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 10:18,4/21/22 10:29,0,100,651,1,4/21/22 10:29,R_1jCBv8HUBMXQJMZ,anonymous,EN,2,LilyMae Galinski,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:12,4/21/22 10:29,0,100,1014,1,4/21/22 10:29,R_AcfToxJiToAKEyl,anonymous,EN,2,LilyMae Galinski,3,3,1,3,2,3,3,3,1,2,3,3,3,3,3,3,3,1,3,3,3,3,3,3,5,"She didn't talk about the internship as much, more of different stories of what happened. Good engagement with the class, and had good presentation skills."
+4/21/22 10:19,4/21/22 10:29,0,100,645,1,4/21/22 10:29,R_3p4gu7RB9U2HIyP,anonymous,EN,2,LilyMae Galinski,2,3,1,3,2,2,2,2,2,2,2,3,3,3,3,2,2,2,3,3,3,3,2,3,6,
+4/21/22 10:13,4/21/22 10:29,0,100,1013,1,4/21/22 10:29,R_33klCKxci7Quezd,anonymous,EN,2,LilyMae Galinski,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 10:17,4/21/22 10:29,0,100,737,1,4/21/22 10:29,R_1pDWW2bnnM81r7r,anonymous,EN,2,LilyMae Galinski,2,3,1,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:20,4/21/22 10:29,0,100,553,1,4/21/22 10:29,R_spTZs6bhHnayo0N,anonymous,EN,2,LilyMae Galinski,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:17,4/21/22 10:30,0,100,752,1,4/21/22 10:30,R_2f98tmd0k6sLiCL,anonymous,EN,2,LilyMae Galinski,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 10:11,4/21/22 10:31,0,100,1163,1,4/21/22 10:31,R_uljAb7VmEGXOUYV,anonymous,EN,2,LilyMae Galinski,3,3,2,3,3,3,3,3,3,3,2,3,3,3,3,3,3,2,3,3,3,3,3,3,7,She gave her opinion about what she didn't like about the school. But it was good for her to know this is definitely what she wants to do.
+4/21/22 10:17,4/21/22 10:31,0,100,855,1,4/21/22 10:31,R_3oYLJIheMc4T1FN,anonymous,EN,2,LilyMae Galinski,2,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Started crying at one point - Very touching and informative
+4/21/22 10:16,4/21/22 10:31,0,100,927,1,4/21/22 10:31,R_2430QeVc1Pg6RX2,anonymous,EN,2,LilyMae Galinski,3,3,3,3,3,3,3,3,2,2,2,3,3,3,3,3,3,2,2,3,3,3,3,3,7,"The presentation was interesting because presentation just focus on positive but, it was good that it focus also on the negatives "
+4/21/22 10:33,4/21/22 10:40,0,100,418,1,4/21/22 10:40,R_2afCi5W23Eu7wMD,anonymous,EN,2,Erin Kieran,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:11,4/21/22 10:41,0,100,1808,1,4/21/22 10:41,R_3oyFkyvb1MLR2tl,anonymous,EN,2,Erin Kieran,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,"slides were great, didnt use notes or read off slides, impressive"
+4/21/22 10:31,4/21/22 10:42,0,100,642,1,4/21/22 10:42,R_yZTTGkNgw4H70zf,anonymous,EN,2,Erin Kieran,3,2,2,3,2,1,2,2,3,3,3,3,3,3,3,3,2,2,2,3,3,2,2,3,6,
+4/21/22 10:29,4/21/22 10:42,0,100,755,1,4/21/22 10:42,R_2s0fvz7DGg9kzSU,anonymous,EN,2,Erin Kieran,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 10:26,4/21/22 10:43,0,100,1048,1,4/21/22 10:43,R_3ExRHJHKO8hEcZv,anonymous,EN,2,Erin Kieran,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 10:29,4/21/22 10:43,0,100,831,1,4/21/22 10:43,R_2EsMYrRwTKbmc0Z,anonymous,EN,2,Erin Kieran,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,"Limited text on slides, and just put the main points on the slides and then spoke about the points in more detail. Very knowledgebale on her internship and included good samples. "
+4/21/22 10:32,4/21/22 10:43,0,100,679,1,4/21/22 10:43,R_2Y3rMcatl6u7O4d,anonymous,EN,2,Erin Kieran,3,2,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,7,It was a great presentation. she was very detail about the task that she did at the middle school and with the school counselor. 
+4/21/22 10:30,4/21/22 10:43,0,100,833,1,4/21/22 10:43,R_1E6i9hHKSjnpR9L,anonymous,EN,2,Erin Kieran,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 10:29,4/21/22 10:44,0,100,843,1,4/21/22 10:44,R_1FM7lUBPChkR1lt,anonymous,EN,2,Erin Kieran,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:31,4/21/22 10:44,0,100,784,1,4/21/22 10:44,R_3e2JQ7gTU3P0XL9,anonymous,EN,2,Erin Kieran,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,She sounds like she has a lot of passion in this field of interest.
+4/21/22 10:30,4/21/22 10:44,0,100,839,1,4/21/22 10:44,R_3n7rRTbG9q6JmpM,anonymous,EN,2,Erin Kieran,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:30,4/21/22 10:45,0,100,920,1,4/21/22 10:45,R_1qgnzqw0da3cugZ,anonymous,EN,2,Erin Kieran,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:42,4/21/22 10:48,0,100,390,1,4/21/22 10:48,R_1oAYjauegBVCbDf,anonymous,EN,2,Kristina Pacifico,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 10:43,4/21/22 10:52,0,100,514,1,4/21/22 10:52,R_2AMWgCcbPSH9n48,anonymous,EN,2,Kristina Pacifico,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 10:49,4/21/22 10:53,0,100,204,1,4/21/22 10:53,R_sQXfr1alAwTp3u9,anonymous,EN,2,Kristina Pacifico,2,3,2,2,2,3,2,2,2,2,2,2,2,2,3,2,2,2,2,2,2,2,2,2,6,
+4/21/22 10:45,4/21/22 10:53,0,100,487,1,4/21/22 10:53,R_2zZUdHYRMDV7riF,anonymous,EN,2,Kristina Pacifico,3,3,2,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,5,
+4/21/22 10:43,4/21/22 10:55,0,100,727,1,4/21/22 10:55,R_3NHRAT3ltREQxRD,anonymous,EN,2,Kristina Pacifico,1,2,1,1,2,3,3,3,2,3,3,2,1,2,2,3,3,1,3,3,2,3,1,2,4,She wasn't very professional in the presentation and went off topic. She also paused a lot when talking.  
+4/21/22 10:41,4/21/22 10:55,0,100,837,1,4/21/22 10:55,R_sBZfBStByuTz9YZ,anonymous,EN,2,Kristina Pacifico,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,6,
+4/21/22 10:42,4/21/22 10:56,0,100,830,1,4/21/22 10:56,R_C3pehh42TTX9UCB,anonymous,EN,2,Kristina Pacifico,2,2,2,2,3,3,3,3,2,2,3,2,2,3,3,3,3,2,3,3,3,3,2,2,5,It was good to share you experience in each of the slide. I think that it was good to add your experience with the IRB . It might seem as easy and there is a lot of people might be thinking that getting to get approval from the IRB.  
+4/21/22 10:44,4/21/22 10:56,0,100,727,1,4/21/22 10:56,R_2v2nqDrIwTB8SRj,anonymous,EN,2,Kristina Pacifico,2,2,2,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Interesting and very relatable.
+4/21/22 10:55,4/21/22 10:56,0,100,77,1,4/21/22 10:56,R_DwAVYas1ePXEs49,anonymous,EN,2,Kristina Pacifico,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,6,
+4/21/22 10:44,4/21/22 10:56,0,100,741,1,4/21/22 10:56,R_O89B2t0EtYcEq3v,anonymous,EN,2,Kristina Pacifico,3,3,2,3,3,2,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:44,4/21/22 10:56,0,100,726,1,4/21/22 10:56,R_yyYCevVJhz4pYA1,anonymous,EN,2,Kristina Pacifico,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:29,4/21/22 10:56,0,100,1608,1,4/21/22 10:56,R_1rHbJIFETHkqllH,anonymous,EN,2,Kristina Pacifico,2,1,1,3,3,3,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,2,2,5,"Great presentation, I learned a lot about research."
+4/21/22 10:44,4/21/22 10:57,0,100,820,1,4/21/22 10:57,R_2f71PKFMmPbwFyN,anonymous,EN,2,Kristina Pacifico,2,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:56,4/21/22 11:03,0,100,416,1,4/21/22 11:03,R_3Deaz35QuqJUusM,anonymous,EN,2,Julia Ribaudo,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,"Great job, super knowledgeable and great loud clear voice!"
+4/21/22 10:55,4/21/22 11:03,0,100,448,1,4/21/22 11:03,R_2Vlrr4KB74le2sm,anonymous,EN,2,Julia Ribaudo,3,3,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,2,3,2,3,5,"Overall good presentation, knowledgebale and spoke well."
+4/21/22 10:57,4/21/22 11:03,0,100,349,1,4/21/22 11:03,R_4YpevgKxBGy2Aql,anonymous,EN,2,Julia Ribaudo,2,2,2,3,2,2,2,2,2,2,2,3,2,2,2,2,2,2,2,2,2,3,2,2,6,
+4/21/22 10:58,4/21/22 11:03,0,100,326,1,4/21/22 11:03,R_QiSOX1hhkvDv61j,anonymous,EN,2,Julia Ribaudo,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:31,4/21/22 11:03,0,100,1919,1,4/21/22 11:03,R_2q2GLFYImSjJjUy,anonymous,EN,2,Emily Voigt,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,6,
+4/21/22 10:57,4/21/22 11:03,0,100,402,1,4/21/22 11:03,R_7QXnst3hzDYGLoB,anonymous,EN,2,Julia Ribaudo,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 10:56,4/21/22 11:03,0,100,440,1,4/21/22 11:03,R_3iwmG5XY7uLg6jO,anonymous,EN,2,Julia Ribaudo,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:56,4/21/22 11:04,0,100,492,1,4/21/22 11:04,R_3n27Zn2MKXaKwfZ,anonymous,EN,2,Julia Ribaudo,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 10:56,4/21/22 11:04,0,100,508,1,4/21/22 11:04,R_2y1wqU7KP7O4ftp,anonymous,EN,2,Julia Ribaudo,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,7,Seems like she had fun and learned to work with uncomfortable situations. She mentioned that working with kids needs patience and it improved it in a way.
+4/21/22 10:42,4/21/22 11:04,0,100,1342,1,4/21/22 11:04,R_26hfbpa7ynJ5gNs,anonymous,EN,2,Julia Ribaudo,3,3,3,3,3,3,3,3,3,3,3,2,2,3,3,3,2,2,3,3,3,3,2,3,6,It was good to talk about what your experience with the kids and if they were difficult situations 
+4/21/22 10:57,4/21/22 11:05,0,100,431,1,4/21/22 11:05,R_2U9IrvQttdGL9PP,anonymous,EN,2,Julia Ribaudo,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 11:45,4/21/22 11:54,0,100,556,1,4/21/22 11:54,R_1eJMaQaWZO9oCUX,anonymous,EN,1,Sarah Creeden,2,3,2,3,3,2,3,3,3,2,3,3,3,3,3,3,3,2,3,3,3,3,2,3,6,
+4/21/22 11:44,4/21/22 11:55,0,100,634,1,4/21/22 11:55,R_1pleYL5JVcAuEzC,anonymous,EN,1,Sarah Creeden,2,3,1,3,2,2,3,3,2,3,3,3,3,3,3,3,3,2,3,3,3,3,2,3,6,
+4/21/22 11:43,4/21/22 11:55,0,100,728,1,4/21/22 11:55,R_tZ0Jz4xeW7EnjQR,anonymous,EN,1,Sarah Creeden,2,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 11:45,4/21/22 11:56,0,100,633,1,4/21/22 11:56,R_2wjgoD0p9LpC4BD,anonymous,EN,1,Sarah Creeden,2,2,2,3,3,2,2,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 11:47,4/21/22 11:56,0,100,574,1,4/21/22 11:56,R_QaEHO6YVmJSZGFj,anonymous,EN,1,Sarah Creeden,2,3,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 11:44,4/21/22 11:57,0,100,767,1,4/21/22 11:57,R_1eFqjbObwwlsIlP,anonymous,EN,1,Sarah Creeden,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Sarah did a great job communicating her internship and what she did in a clear way regardless of being nervous. It was very interesting that she was able to contribute to the internship program and help build it up for the organization it seems like she contributed in a meaningful way.
+4/21/22 11:56,4/21/22 12:06,0,100,632,1,4/21/22 12:06,R_2rkFGmAuRmQ4PSL,anonymous,EN,1,Simone Soodoo,3,3,2,3,3,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,2,2,6,very loud and clear. good presentation 
+4/21/22 11:44,4/21/22 12:06,0,100,1314,1,4/21/22 12:06,R_3mlbnTL2sqHBWK0,anonymous,EN,1,Simone Soodoo,3,3,3,3,3,3,3,3,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 11:55,4/21/22 12:06,0,100,673,1,4/21/22 12:06,R_3hfm3HP5GBKeEi4,anonymous,EN,1,Simone Soodoo,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 11:57,4/21/22 12:06,0,100,577,1,4/21/22 12:06,R_BROHp4VUX2vRoCB,anonymous,EN,1,Simone Soodoo,3,3,2,3,3,2,3,3,2,3,3,3,3,3,3,2,3,2,3,2,3,3,2,3,7,
+4/21/22 11:56,4/21/22 12:07,0,100,638,1,4/21/22 12:07,R_Ub8pdH9RaVmg1QB,anonymous,EN,1,Simone Soodoo,3,3,3,3,3,2,3,3,2,3,2,3,3,3,3,3,3,3,3,3,2,3,2,3,6,
+4/21/22 11:57,4/21/22 12:07,0,100,588,1,4/21/22 12:07,R_3O9peXmzD3pcjdc,anonymous,EN,1,Simone Soodoo,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/21/22 11:57,4/21/22 12:08,0,100,664,1,4/21/22 12:08,R_2bHGoRx5w0M1kDa,anonymous,EN,1,Simone Soodoo,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Simone is a great presenter and was able to clearly communicate her internship and what she did. Great job!
+4/21/22 11:44,4/21/22 12:09,0,100,1443,1,4/21/22 12:09,R_2zpc2PkoRvGoVQR,anonymous,EN,1,Sarah Creeden,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,2,3,3,3,3,3,3,6,
+4/21/22 12:06,4/21/22 12:17,0,100,659,1,4/21/22 12:17,R_3n7NADMey1T28ts,anonymous,EN,1,Jada Gonzalez,3,2,3,3,3,3,3,3,3,2,3,3,3,2,3,3,3,3,3,3,3,3,2,3,6,
+4/21/22 12:08,4/21/22 12:18,0,100,578,1,4/21/22 12:18,R_3lEnyPDKPuMI7CG,anonymous,EN,1,Jada Gonzalez,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 12:09,4/21/22 12:18,0,100,546,1,4/21/22 12:18,R_02jKpEap6BpBtdv,anonymous,EN,1,Jada Gonzalez,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 12:06,4/21/22 12:18,0,100,686,1,4/21/22 12:18,R_1nP0sMOqFnulhKq,anonymous,EN,1,Jada Gonzalez,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/21/22 12:06,4/21/22 12:18,0,100,706,1,4/21/22 12:18,R_1K3C0EWT1UycEaY,anonymous,EN,1,Jada Gonzalez,3,3,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,7,
+4/21/22 12:08,4/21/22 12:18,0,100,617,1,4/21/22 12:18,R_12DqrVU1xlDm01t,anonymous,EN,1,Jada Gonzalez,3,3,2,3,2,2,3,3,3,3,2,2,3,2,3,3,3,3,3,3,3,3,2,3,6,
+4/21/22 12:08,4/21/22 12:19,0,100,659,1,4/21/22 12:19,R_27jSMtbpeNqlipC,anonymous,EN,1,Jada Gonzales ,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,7,I thought her overall internship was interesting and she was also extremely funny which added to the presentation. It was refeshing!
+4/26/22 11:47,4/26/22 11:57,0,100,567,1,4/26/22 11:57,R_DtVwMmii7VgaKel,anonymous,EN,3,Prianka Sharma,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/26/22 11:47,4/26/22 11:57,0,100,590,1,4/26/22 11:57,R_ZvDJVzgXU2s3iCt,anonymous,EN,3,Prianka Sharma,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/26/22 11:47,4/26/22 11:57,0,100,601,1,4/26/22 11:57,R_2UXdnhqkKgAITpY,anonymous,EN,3,Prianka Sharma,2,2,2,3,2,2,2,3,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,5,
+4/26/22 11:49,4/26/22 11:57,0,100,506,1,4/26/22 11:57,R_2rC6UbSgNQwyVQw,anonymous,EN,3,Prianka Sharma,2,3,2,3,3,2,2,2,3,3,3,3,3,2,2,2,2,2,2,3,2,3,3,3,6,
+4/26/22 11:47,4/26/22 11:58,0,100,625,1,4/26/22 11:58,R_22QvJNldwJrvJR9,anonymous,EN,2,Prianka Sharma,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/26/22 11:47,4/26/22 11:58,0,100,635,1,4/26/22 11:58,R_23ZWyc7mzuJlw67,anonymous,EN,3,Prianka Sharma,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/26/22 11:52,4/26/22 11:58,0,100,361,1,4/26/22 11:58,R_yqkpEymmfSWZK4p,anonymous,EN,1,Prianka Sharma,2,3,3,2,2,2,2,2,3,2,2,2,2,3,2,3,3,3,2,3,3,2,2,2,5,
+4/26/22 11:47,4/26/22 11:58,0,100,681,1,4/26/22 11:58,R_1IaWpicpdUxmwYb,anonymous,EN,3,Prianka Sharma,1,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,6,
+4/26/22 11:57,4/26/22 12:08,0,100,708,1,4/26/22 12:08,R_1Dqkm7kXp6070Z0,anonymous,EN,3,Laura Plasencia Caraballo,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/26/22 12:02,4/26/22 12:10,0,100,484,1,4/26/22 12:10,R_2uILsFBsNOMFlly,anonymous,EN,3,Laura Plasencia Caraballo,3,3,3,2,3,3,3,3,2,2,3,3,3,3,3,3,3,2,3,3,3,3,3,3,6,
+4/26/22 11:47,4/26/22 12:10,0,100,1368,1,4/26/22 12:10,R_12u09fhofsXgOtD,anonymous,EN,3,Laura Plasencia Caraballo,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/26/22 12:02,4/26/22 12:10,0,100,488,1,4/26/22 12:10,R_ufsGLM4nyOU9nG1,anonymous,EN,3,Laura Plasencia Caraballo,3,3,2,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/26/22 11:58,4/26/22 12:10,0,100,717,1,4/26/22 12:10,R_x3O2bb7paGQclzj,anonymous,EN,3,Laura Plasencia Caraballo,3,3,2,1,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/26/22 11:58,4/26/22 12:11,0,100,749,1,4/26/22 12:11,R_2xOUMKDgv6dIBHM,anonymous,EN,1,Laura Plasencia Caraballo,3,3,2,3,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,2,3,2,3,3,7,
+4/26/22 11:57,4/26/22 12:11,0,100,853,1,4/26/22 12:11,R_r8TbGObzN2udj57,anonymous,EN,3,Laura Plasencia Caraballo,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,
+4/26/22 11:58,4/26/22 12:11,0,100,773,1,4/26/22 12:11,R_3sbtNr09SaOgdSw,anonymous,EN,3,Laura Plasencia Caraballo,2,2,1,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,
+4/26/22 12:09,4/26/22 12:20,0,100,659,1,4/26/22 12:20,R_DuyuS62wdQS4X2p,anonymous,EN,3,Greg Pandaliano,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,6,
+4/26/22 12:11,4/26/22 12:20,0,100,546,1,4/26/22 12:20,R_ClwgqBzZsYGusXn,anonymous,EN,3,Greg Pandaliano,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,
+4/26/22 12:10,4/26/22 12:21,0,100,653,1,4/26/22 12:21,R_1C8iSgmv6GgnixD,anonymous,EN,3,Greg Pandaliano,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/26/22 12:10,4/26/22 12:21,0,100,653,1,4/26/22 12:21,R_1JWREaWZ4KCZrG0,anonymous,EN,3,Greg Pandaliano,3,2,2,2,2,2,3,3,2,3,3,3,2,2,2,3,3,3,3,3,2,2,3,3,5,
+4/26/22 12:13,4/26/22 12:21,0,100,476,1,4/26/22 12:21,R_2q4N0EIUdVNJdZm,anonymous,EN,3,Greg Pandaliano,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/26/22 12:11,4/26/22 12:22,0,100,609,1,4/26/22 12:22,R_b3i1bkIrtqjTWrn,anonymous,EN,3,Greg Pandaliano,2,2,1,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,4,
+4/26/22 12:10,4/26/22 12:22,0,100,735,1,4/26/22 12:22,R_3MFo2lt1OMWkeZc,anonymous,EN,3,Greg Pandaliano,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/26/22 12:13,4/26/22 12:22,0,100,557,1,4/26/22 12:22,R_3QLgFAyR4sOYrDd,anonymous,EN,1,Greg Pandaliano,3,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/26/22 12:21,4/26/22 12:29,0,100,505,1,4/26/22 12:29,R_U9DWBkm0iO3FUTD,anonymous,EN,3,Maheen Shakeel,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,
+4/26/22 12:21,4/26/22 12:31,0,100,604,1,4/26/22 12:31,R_2E3P8aydVYyGWpc,anonymous,EN,3,Maheen Shakeel,2,3,2,3,2,3,3,3,3,3,1,3,2,3,3,3,3,3,3,3,3,3,2,2,5,
+4/26/22 12:20,4/26/22 12:31,0,100,685,1,4/26/22 12:31,R_7QIqFDU45ycTLEd,anonymous,EN,3,Maheen Shakeel,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/26/22 12:21,4/26/22 12:31,0,100,643,1,4/26/22 12:31,R_2X5qm1jPhlVOPss,anonymous,EN,3,Maheen Shakeel,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/26/22 12:22,4/26/22 12:32,0,100,601,1,4/26/22 12:32,R_2Wv6jmtNm7dQUiz,anonymous,EN,3,Maheen Shakeel,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,6,
+4/26/22 12:22,4/26/22 12:32,0,100,590,1,4/26/22 12:32,R_3MRoCaBf3d5Zwu4,anonymous,EN,3,maheen Shakeel,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:18,4/28/22 10:19,0,100,102,1,4/28/22 10:19,R_yyZHZ9Q3KsNwjjb,anonymous,EN,2,Sarah Eppich,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:18,4/28/22 10:20,0,100,113,1,4/28/22 10:20,R_1M64gB36vUIdjg8,anonymous,EN,2,Sarah Eppich,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+4/28/22 10:17,4/28/22 10:24,0,100,417,1,4/28/22 10:24,R_3KVZ3RoHw50wNea,anonymous,EN,2,Sarah Eppich,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:20,4/28/22 10:25,0,100,297,1,4/28/22 10:25,R_9vrbDMKhpoIh4ad,anonymous,EN,2,Sarah Eppich,2,3,2,2,3,2,3,2,3,3,2,3,3,3,3,3,3,2,2,3,2,2,3,3,6,
+4/28/22 10:18,4/28/22 10:27,0,100,522,1,4/28/22 10:27,R_3Ed5IBHS9uSO0FT,anonymous,EN,2,Sarah Eppich,3,3,1,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,2,2,5,Good presentation overall. Made interactions with class and was knowledegable on internship.
+4/28/22 10:18,4/28/22 10:27,0,100,547,1,4/28/22 10:27,R_26fKZPlPWNBVDkC,anonymous,EN,2,Sarah Eppich,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:17,4/28/22 10:27,0,100,616,1,4/28/22 10:27,R_28ScoSTpqoIqfwK,anonymous,EN,2,sarah eppich,3,3,2,3,2,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:18,4/28/22 10:28,0,100,597,1,4/28/22 10:28,R_OeQed6qkeMUFNVT,anonymous,EN,2,Sarah Eppich,2,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Overall great presentation!
+4/28/22 10:17,4/28/22 10:28,0,100,660,1,4/28/22 10:28,R_2RNPZ7cwy9utDh8,anonymous,EN,2,Sarah Eppich,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,3,3,3,6,Sarah did a good job explaining the work that was done during the internship and talking about the experience at the internship. It would be good to belief explanation about HIPAA and what it is. Good Job. 
+4/28/22 10:21,4/28/22 10:28,0,100,409,1,4/28/22 10:28,R_27alK2UDjuFXaFe,anonymous,EN,2,Sarah Eppich,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,6,
+4/28/22 10:12,4/28/22 10:28,0,100,994,1,4/28/22 10:28,R_qKHY3cDU6wMGLaF,anonymous,EN,2,Sarah Eppich,3,3,1,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:17,4/28/22 10:29,0,100,673,1,4/28/22 10:29,R_rj57koViQ10Mvvz,anonymous,EN,2,Sarah Eppich,3,3,1,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:20,4/28/22 10:29,0,100,536,1,4/28/22 10:29,R_2qaSqAYRAhVFh5O,anonymous,EN,2,Sarah Eppich,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:21,4/28/22 10:29,0,100,483,1,4/28/22 10:29,R_231YK5hYHKPlQ0d,anonymous,EN,2,Sarah Eppich,3,3,2,3,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,2,2,5,
+4/28/22 10:11,4/28/22 10:30,0,100,1155,1,4/28/22 10:30,R_2c16K7gq6wgIb0g,anonymous,EN,2,Sarah Eppich,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,She seems passionate about interning at her site. She set clear plans for the future and realized where she wants to study based on her interests.
+4/28/22 10:18,4/28/22 10:31,0,100,744,1,4/28/22 10:31,R_3dQR3qXM1u68JnA,anonymous,EN,2,Sarah Eppich,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:19,4/28/22 10:31,0,100,735,1,4/28/22 10:31,R_vIuTmbYTHyriiFH,anonymous,EN,2,Sarah Eppich,3,3,2,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,"Seems like heavy work, both emotionally and intellectually. Great job!"
+4/28/22 10:27,4/28/22 10:33,0,100,353,1,4/28/22 10:33,R_3MgJCAjyBIiMMs1,anonymous,EN,2,Emily Voigt,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:31,4/28/22 10:33,0,100,136,1,4/28/22 10:33,R_30w8jtrCPodUqUN,anonymous,EN,2,Emily Voigt,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:31,4/28/22 10:34,0,100,184,1,4/28/22 10:34,R_1rD5aUYEY6gKJPA,anonymous,EN,2,Emily Voigt,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:24,4/28/22 10:34,0,100,623,1,4/28/22 10:34,R_3HXLIZC9NOQ2JB2,anonymous,EN,2,Emily Voigt,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:28,4/28/22 10:37,0,100,576,1,4/28/22 10:37,R_30rbMI98c9pWF7s,anonymous,EN,2,Emily Voigt,3,3,2,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:31,4/28/22 10:38,0,100,413,1,4/28/22 10:38,R_1mI2soi80xkcQdy,anonymous,EN,2,Emily Voigt,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:34,4/28/22 10:38,0,100,279,1,4/28/22 10:38,R_2E3KJPtsgbjm6Nd,anonymous,EN,2,Emily Voigt,3,3,3,3,3,2,2,3,3,3,2,3,3,2,3,2,2,3,3,2,2,3,3,3,6,
+4/28/22 10:29,4/28/22 10:39,0,100,576,1,4/28/22 10:39,R_Rrdh0y5fQVsllE5,anonymous,EN,2,Emily Voigt,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:32,4/28/22 10:39,0,100,420,1,4/28/22 10:39,R_263xYJnmZ7OG5tH,anonymous,EN,2,Emily Voigt,3,3,3,2,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,2,3,2,2,5,"great presentation, just a lot of words on the slides. "
+4/28/22 10:28,4/28/22 10:39,0,100,664,1,4/28/22 10:39,R_2PzhKeT5yWIWOWH,anonymous,EN,2,Emily Voigt,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,"Great presentation, she explained a lot about Human Resources and her experience."
+4/28/22 10:18,4/28/22 10:39,0,100,1295,1,4/28/22 10:39,R_2ttDy0WUuCpNHNr,anonymous,EN,2,Emily Voigt,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,It was good presentation because it discusses the pros and the cons of the internships. I did learn a lot about tasks and job of human resources.  
+4/28/22 10:28,4/28/22 10:39,0,100,662,1,4/28/22 10:39,R_1Kjty97XclTlmqF,anonymous,EN,2,Emily Voigt,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:29,4/28/22 10:40,0,100,629,1,4/28/22 10:40,R_C15KvOyCmBdKd0d,anonymous,EN,2,Emily Voigt,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:30,4/28/22 10:40,0,100,599,1,4/28/22 10:40,R_1OoWPn8cy16eZZ0,anonymous,EN,2,Emily Voigt,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,She figured out what she wants to do in the future based on what she did for an internship. 
+4/28/22 10:28,4/28/22 10:41,0,100,743,1,4/28/22 10:41,R_1gTLOl7ZZKelITi,anonymous,EN,2,Emily Voigt,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:31,4/28/22 10:41,0,100,575,1,4/28/22 10:41,R_2wieCrXAZTQGekl,anonymous,EN,2,Emily Voigt,3,3,1,3,2,2,3,3,1,2,3,3,3,3,3,3,3,3,3,3,2,3,2,2,5,Good presentation. Could have made more eye contact with audience and used um a lot. 
+4/28/22 10:31,4/28/22 10:41,0,100,618,1,4/28/22 10:41,R_3fP3TCUOyMTt2KN,anonymous,EN,2,Emily Voigt,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,"Very calm, collected, and prepared. "
+4/28/22 10:33,4/28/22 10:41,0,100,487,1,4/28/22 10:41,R_2SjlYGI1P0CxE7M,anonymous,EN,2,DenaRae Magro,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:37,4/28/22 10:44,0,100,416,1,4/28/22 10:44,R_1PRVOXl63EcVBtj,anonymous,EN,2,DenaRae Magro,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:19,4/28/22 10:44,0,100,1492,1,4/28/22 10:44,R_3IbGlthl0uCIZMW,anonymous,EN,2,DenaRae Magro,2,2,3,2,2,3,3,3,3,3,2,2,2,3,3,3,3,3,3,3,3,3,2,2,6,
+4/28/22 10:41,4/28/22 10:45,0,100,267,1,4/28/22 10:45,R_1C7qCMAA0Nz3HNB,anonymous,EN,2,DenaRae Magro,3,2,2,3,3,2,2,2,3,2,2,3,3,2,3,2,3,2,3,3,3,3,2,2,6,
+4/28/22 10:34,4/28/22 10:46,0,100,716,1,4/28/22 10:46,R_3PvFOUF5zbPpMLQ,anonymous,EN,2,DenaRae Magro,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:38,4/28/22 10:48,0,100,590,1,4/28/22 10:48,R_cUy8303gCBBvJrb,anonymous,EN,2,DenaRae Magro,1,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:41,4/28/22 10:48,0,100,404,1,4/28/22 10:48,R_qLBzG4alQclHUM9,anonymous,EN,2,DenaRae Magro,1,2,1,1,1,1,2,2,2,1,2,1,2,2,2,2,2,1,2,2,1,2,1,1,3,I couldn't hear her and she read directly off the slides. She didn't explain the graphics. and didn't seem very prepared. The slides were very wordy. She didn't really explain her major learnings in detail.  
+4/28/22 10:34,4/28/22 10:48,0,100,828,1,4/28/22 10:48,R_3EoqeLzX9opGjAm,anonymous,EN,2,DenaRae Magro,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:39,4/28/22 10:48,0,100,500,1,4/28/22 10:48,R_3NvOG80By2ceXOY,anonymous,EN,2,DenaRae Magro,2,3,1,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+4/28/22 10:39,4/28/22 10:48,0,100,527,1,4/28/22 10:48,R_1HoBSO0Cv0eh5fa,anonymous,EN,2,DenaRae Magro,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+4/28/22 10:41,4/28/22 10:48,0,100,421,1,4/28/22 10:48,R_12EYKJdKs0bL6Be,anonymous,EN,2,DenaRae Magro,1,2,1,1,2,2,2,2,1,1,1,1,1,2,1,2,1,3,1,1,1,1,1,1,2,"It was really hard to hear and the format was very basic with minimal graphics and pictures, not practiced, and seemed to be put together last minute with lots of words and no contextual information on the slides. She also didn't have 4 major learning experiences, only 3. "
+4/28/22 10:40,4/28/22 10:49,0,100,504,1,4/28/22 10:49,R_4PyzjNLvqLOQ9UJ,anonymous,EN,2,DenaRae Magro,2,3,2,3,2,3,3,3,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,5,She explained how there was more improvement in responsibility.
+4/28/22 10:41,4/28/22 10:49,0,100,437,1,4/28/22 10:49,R_2V9DWHRKJtHeOzp,anonymous,EN,2,DenaRae Magro,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:18,4/28/22 10:50,0,100,1942,1,4/28/22 10:50,R_V2y3G0wvoB7OZEt,anonymous,EN,2,DenaRae Magro,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Even through there was no possible way of show what the work that she did at the internship. She did a good job explaining on what she did at her internship.  
+4/28/22 10:40,4/28/22 10:50,0,100,644,1,4/28/22 10:50,R_2atv0MT0xp1QGJ5,anonymous,EN,2,DenaRae Magro,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+4/28/22 10:42,4/28/22 10:48,0,100,361,1,4/28/22 11:03,R_2RWeN6tZrP6OSBw,anonymous,EN,2,DenaRae Magro,2,2,2,1,3,1,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,Good presentation just a lot of text on slides. 
+5/3/22 11:38,5/3/22 11:48,0,100,578,1,5/3/22 11:48,R_1BQrGPh9jiQ1Q6P,anonymous,EN,3,Rebecca Richter,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:41,5/3/22 11:48,0,100,435,1,5/3/22 11:48,R_0jgpVn7rWttGaTD,anonymous,EN,3,Rebecca Richter,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:42,5/3/22 11:48,0,100,378,1,5/3/22 11:48,R_yl2iaWjsHaJgHoR,anonymous,EN,3,Rebecca Richter,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:40,5/3/22 11:48,0,100,463,1,5/3/22 11:48,R_C94wECBNCjAhX9f,anonymous,EN,3,Rebecca Richter,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 11:41,5/3/22 11:49,0,100,467,1,5/3/22 11:49,R_sIk8LrnpTvnpwoF,anonymous,EN,3,Rebecca Richter,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:42,5/3/22 11:49,0,100,420,1,5/3/22 11:49,R_3MoggdVj30rEZ7f,anonymous,EN,3,Rebecca Richter,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,7,
+5/3/22 11:39,5/3/22 11:49,0,100,595,1,5/3/22 11:49,R_vSHq637uOFbl5Bf,anonymous,EN,3,Rebecca Richter,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,was done very well
+5/3/22 11:41,5/3/22 11:49,0,100,462,1,5/3/22 11:49,R_2aaWnfvIQbJk9C3,anonymous,EN,3,Rebecca Richter,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:46,5/3/22 11:49,0,100,147,1,5/3/22 11:49,R_2chEUyyoBDkWdAB,anonymous,EN,1,Rebecca Richter,2,3,3,3,2,3,3,2,2,2,3,3,2,2,3,2,3,2,2,3,3,2,2,2,6,
+5/3/22 11:41,5/3/22 11:49,0,100,484,1,5/3/22 11:49,R_2aFga4FVNvEejwm,anonymous,EN,3,Rebecca Richter,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:41,5/3/22 11:49,0,100,481,1,5/3/22 11:49,R_2TYoOuJmtyLJKHd,anonymous,EN,3,Rebecca Richter,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:46,5/3/22 11:51,0,100,305,1,5/3/22 11:51,R_4JlvO6NWpc8rf7H,anonymous,EN,3,Rebecca Richter,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:48,5/3/22 11:58,0,100,549,1,5/3/22 11:58,R_2xIV7dfEMwN5ivT,anonymous,EN,3,Isabela Flores,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:48,5/3/22 12:00,0,100,686,1,5/3/22 12:00,R_1LZsgvq2cjAoc7V,anonymous,EN,3,Isabela Flores,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:51,5/3/22 12:01,0,100,582,1,5/3/22 12:01,R_2dYpE7JaTWz0jFE,anonymous,EN,3,Isabela Flores,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Spoken a little too fast but was good.
+5/3/22 11:49,5/3/22 12:01,0,100,750,1,5/3/22 12:01,R_2YyVVFLmtsSpRdz,anonymous,EN,3,Isabela Flores,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:49,5/3/22 12:01,0,100,750,1,5/3/22 12:01,R_1QnNQm6qhRO0IAj,anonymous,EN,3,Isabela Flores,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,"At some moments , you spoke to fast but great presentation "
+5/3/22 11:51,5/3/22 12:01,0,100,626,1,5/3/22 12:01,R_2q7Q1XrLbkLt9xE,anonymous,EN,3,Isabela Flores,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:51,5/3/22 12:01,0,100,648,1,5/3/22 12:01,R_32Qufqr14iWU70F,anonymous,EN,3,Isabela Flores,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:49,5/3/22 12:01,0,100,744,1,5/3/22 12:01,R_1DtCbWalQHj16hN,anonymous,EN,3,Isabela Flores,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:49,5/3/22 12:01,0,100,748,1,5/3/22 12:01,R_agWu3XbmEraYvf3,anonymous,EN,1,Isabela Flores,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,7,
+5/3/22 11:49,5/3/22 12:01,0,100,755,1,5/3/22 12:01,R_27ebv2ltQbUrGkB,anonymous,EN,3,Isabela Flores,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,was done well
+5/3/22 11:41,5/3/22 12:02,0,100,1280,1,5/3/22 12:02,R_3Oq36TiUhHfqUfJ,anonymous,EN,3,Isabela Flores,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Your powerpoint for this presentation as well as the samples you show look great! Very aesthetically pleasing and help keep attention.
+5/3/22 11:50,5/3/22 12:02,0,100,754,1,5/3/22 12:02,R_1DoPquKPgWkGQYL,anonymous,EN,3,Isabela Flores,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 12:01,5/3/22 12:06,0,100,275,1,5/3/22 12:06,R_2uCCx7d9HhuqZSA,anonymous,EN,3,Liz Lipari ,2,2,3,3,3,3,3,3,3,3,3,3,3,2,3,2,2,2,3,3,3,3,3,3,6,
+5/3/22 12:02,5/3/22 12:06,0,100,229,1,5/3/22 12:06,R_yx7BcjqkZAKADPb,anonymous,EN,3,Liz Lipari ,2,2,2,2,2,2,2,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,2,3,5,
+5/3/22 12:03,5/3/22 12:06,0,100,189,1,5/3/22 12:06,R_dmSGf3Ngp8NcCch,anonymous,EN,3,Liz Lipari ,3,3,2,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,2,3,6,
+5/3/22 12:01,5/3/22 12:06,0,100,278,1,5/3/22 12:06,R_UxnTG6OoiQlY7gl,anonymous,EN,3,Liz Lipari ,2,2,2,2,2,2,2,3,3,3,2,2,2,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:04,5/3/22 12:06,0,100,113,1,5/3/22 12:06,R_2X0QaMuTCvrBcKu,anonymous,EN,3,Liz Lipari ,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 11:49,5/3/22 12:06,0,100,1026,1,5/3/22 12:06,R_30qR4oME80tThqw,anonymous,EN,3,Liz Lipari ,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,
+5/3/22 12:02,5/3/22 12:06,0,100,284,1,5/3/22 12:06,R_2wvoyQ1kCwN7IRj,anonymous,EN,3,Liz Lipari ,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 12:01,5/3/22 12:07,0,100,311,1,5/3/22 12:07,R_uqDeG4tyHJJvVQd,anonymous,EN,3,Liz Lipari ,3,3,1,1,3,3,2,3,3,3,3,3,3,3,3,2,2,3,3,2,3,3,2,2,5,
+5/3/22 11:58,5/3/22 12:07,0,100,511,1,5/3/22 12:07,R_BLjfw6JlscG5Hm9,anonymous,EN,3,Liz Lipari ,2,3,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+5/3/22 12:01,5/3/22 12:07,0,100,314,1,5/3/22 12:07,R_TiU8fGPvsMcQW89,anonymous,EN,3,Liz Lipari ,2,1,1,2,2,2,2,3,2,3,2,3,3,2,2,3,2,3,3,3,3,2,2,2,4,
+5/3/22 12:01,5/3/22 12:07,0,100,323,1,5/3/22 12:07,R_3jTe8i8o9yXEuS6,anonymous,EN,1,Liz Lipari ,3,2,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,
+5/3/22 12:02,5/3/22 12:08,0,100,326,1,5/3/22 12:08,R_3KoM4EU64NAy5Ng,anonymous,EN,3,Liz Lipari ,3,3,1,2,3,2,1,2,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,5,
+5/3/22 12:06,5/3/22 12:14,0,100,477,1,5/3/22 12:14,R_2rVgnJNe4OGytf7,anonymous,EN,3,Giovanna Esposito,2,3,2,3,3,2,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:07,5/3/22 12:14,0,100,457,1,5/3/22 12:14,R_SIzywRDTU9Mtc3v,anonymous,EN,3,Giovanna Esposito,3,3,2,3,2,2,3,3,2,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:06,5/3/22 12:14,0,100,491,1,5/3/22 12:14,R_29vk6nkwrCaEGux,anonymous,EN,3,Giovanna Esposito,3,3,2,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:06,5/3/22 12:15,0,100,515,1,5/3/22 12:15,R_28IjmVSQ9hMDP1E,anonymous,EN,3,Giovanna Esposito,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 12:06,5/3/22 12:15,0,100,533,1,5/3/22 12:15,R_1eWtFJ42AlQD3Hj,anonymous,EN,3,Giovanna Esposito,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:08,5/3/22 12:15,0,100,411,1,5/3/22 12:15,R_2qBML66sQjrEQns,anonymous,EN,3,Giovanna Esposito,3,3,3,2,3,3,3,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:07,5/3/22 12:15,0,100,502,1,5/3/22 12:15,R_2cdss2wEAYCLzHv,anonymous,EN,1,Giovanna Esposito,2,2,3,2,2,2,2,3,2,2,2,2,2,2,3,2,2,2,2,2,2,2,2,2,5,I thought it was awesome how much you improved that child's grades :)
+5/3/22 12:07,5/3/22 12:15,0,100,517,1,5/3/22 12:15,R_1P8jzlberJCj3gB,anonymous,EN,3,Giovanna Esposito,2,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:00,5/3/22 12:16,0,100,969,1,5/3/22 12:16,R_3OjrGR9Y5QrH5mL,anonymous,EN,3,Giovanna Esposito,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:06,5/3/22 12:17,0,100,619,1,5/3/22 12:17,R_1IL58ryIfQ9s0mx,anonymous,EN,3,Giovanna Esposito,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,
+5/3/22 12:15,5/3/22 12:21,0,100,335,1,5/3/22 12:21,R_3ISm6KrQSA0zapS,anonymous,EN,3,Leah Azerrad ,3,3,2,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:14,5/3/22 12:21,0,100,389,1,5/3/22 12:21,R_2zJ93ui7uVTmv52,anonymous,EN,3,Leah Azerrad ,2,2,2,2,2,2,3,3,3,3,3,3,3,2,2,3,3,3,2,2,3,2,2,2,4,
+5/3/22 12:16,5/3/22 12:21,0,100,306,1,5/3/22 12:21,R_2dgNfaKmd49mxmL,anonymous,EN,3,Leah Azerrad ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:16,5/3/22 12:21,0,100,288,1,5/3/22 12:21,R_1BViATKNq1wvuFn,anonymous,EN,3,Leah Azerrad ,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 12:15,5/3/22 12:21,0,100,364,1,5/3/22 12:21,R_2VNJsc6RxUIsA3o,anonymous,EN,3,Leah Azerrad ,2,2,2,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:17,5/3/22 12:21,0,100,277,1,5/3/22 12:21,R_3Gsaqq7BwWK0OFj,anonymous,EN,3,Leah Azerrad ,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,
+5/3/22 12:06,5/3/22 12:21,0,100,910,1,5/3/22 12:21,R_238JM14imL5uXqs,anonymous,EN,3,Leah Azerrad ,3,2,2,2,2,2,2,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:18,5/3/22 12:21,0,100,228,1,5/3/22 12:21,R_yvYpP4Auw7Dy7g5,anonymous,EN,1,Leah Azerrad ,2,2,2,2,2,2,2,3,2,3,2,3,2,2,3,2,3,2,2,2,2,2,2,2,5,
+5/3/22 12:16,5/3/22 12:21,0,100,350,1,5/3/22 12:21,R_cOcaAx6LRkZqFzz,anonymous,EN,3,Leah Azerrad ,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:15,5/3/22 12:22,0,100,424,1,5/3/22 12:22,R_2Vmb4sIvqvHwh8L,anonymous,EN,3,Leah Azerrad ,2,2,2,2,3,2,2,2,2,2,3,2,2,3,3,2,3,2,3,3,3,3,2,2,4,
+5/3/22 12:15,5/3/22 12:22,0,100,371,1,5/3/22 12:22,R_W7IAG7jKCUN71BL,anonymous,EN,3,Leah Azerrad ,2,2,2,2,3,2,3,3,3,3,3,3,3,1,3,3,2,3,3,3,3,3,2,2,6,
+5/3/22 12:21,5/3/22 12:26,0,100,285,1,5/3/22 12:26,R_2aJqRoqWK6BYk1H,anonymous,EN,3,Courtney Tasso,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 12:21,5/3/22 12:28,0,100,400,1,5/3/22 12:28,R_2uNSEGtUQqzHvsK,anonymous,EN,3,Courtney Tasso,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 12:21,5/3/22 12:28,0,100,413,1,5/3/22 12:28,R_11dNtoMgXeWKPq4,anonymous,EN,3,Courtney Tasso,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 12:18,5/3/22 12:28,0,100,623,1,5/3/22 12:28,R_viSPuN8SIxhPYlz,anonymous,EN,3,Leah Azerrad ,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/3/22 12:21,5/3/22 12:28,0,100,445,1,5/3/22 12:28,R_2zCkXd66YiIpKkJ,anonymous,EN,3,Courtney Tasso,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,7,
+5/3/22 12:22,5/3/22 12:29,0,100,432,1,5/3/22 12:29,R_3R3ABfhLMfqILdT,anonymous,EN,3,Courtney Tasso,2,3,2,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:21,5/3/22 12:29,0,100,482,1,5/3/22 12:29,R_1r2q3ZWUCRGpj06,anonymous,EN,3,Courtney Tasso,3,3,2,2,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:22,5/3/22 12:29,0,100,431,1,5/3/22 12:29,R_3q7PP3saqDyLAlA,anonymous,EN,3,Courtney Tasso,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,6,
+5/3/22 12:21,5/3/22 12:29,0,100,488,1,5/3/22 12:29,R_1S5luDB9pGXbzJT,anonymous,EN,3,Courtney Tasso,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/3/22 12:22,5/3/22 12:30,0,100,467,1,5/3/22 12:30,R_3EBccE12bnRC6A8,anonymous,EN,3,Courtney Tasso,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,2,6,
+5/3/22 12:22,5/3/22 12:30,0,100,500,1,5/3/22 12:30,R_3kh5TGbp15vXrV3,anonymous,EN,3,Courtney Tasso,2,3,2,2,3,3,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:18,5/5/22 10:20,0,100,90,1,5/5/22 10:20,R_1OrGwoWBM5ezpn9,anonymous,EN,2,Ashley Ronquillo ,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:16,5/5/22 10:21,0,100,350,1,5/5/22 10:21,R_12o55iVWShnbFt1,anonymous,EN,2,Ashley Ronquillo ,2,3,2,3,3,2,2,3,2,2,3,3,3,2,2,2,2,2,2,2,2,2,2,3,6,
+5/5/22 10:19,5/5/22 10:22,0,100,145,1,5/5/22 10:22,R_27UrUn9Bu3cCeys,anonymous,EN,2,Ashley Ronquillo ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:16,5/5/22 10:24,0,100,505,1,5/5/22 10:24,R_1DqKPpYiUPfZRfl,anonymous,EN,2,Ashley Ronquillo ,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 10:17,5/5/22 10:25,0,100,491,1,5/5/22 10:25,R_3fvnalqgk98awbi,anonymous,EN,2,Ashley Ronquillo ,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 10:17,5/5/22 10:26,0,100,535,1,5/5/22 10:26,R_2s5qY6v5SKih8We,anonymous,EN,2,Ashley Ronquillo ,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Her theme was very creative and went along with the company's logo and was overall a great presentation!
+5/5/22 10:20,5/5/22 10:26,0,100,326,1,5/5/22 10:26,R_3MoKgyeuQFKaxnx,anonymous,EN,2,Ashley Ronquillo ,2,2,3,2,3,3,2,3,3,3,2,3,3,3,2,2,3,2,3,3,2,3,3,3,6,
+5/5/22 10:15,5/5/22 10:26,0,100,629,1,5/5/22 10:26,R_1rrk62MTCBpFcUd,anonymous,EN,2,Ashley Ronquillo ,2,2,1,3,3,3,3,3,3,3,3,2,3,3,2,3,3,3,3,3,2,3,2,1,5,Good presentation. Wasn't totally reliant on slides. Could have gone into more detail on some of the slides. Video was a little long.
+5/5/22 10:18,5/5/22 10:26,0,100,478,1,5/5/22 10:26,R_1mPCcczheOgIzTT,anonymous,EN,2,Ashley Ronquillo ,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:11,5/5/22 10:26,0,100,910,1,5/5/22 10:26,R_2abQ3jyV2BvBDOG,anonymous,EN,2,Ashley Ronquillo ,3,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:18,5/5/22 10:26,0,100,482,1,5/5/22 10:26,R_3L0wmFMVggsW0AI,anonymous,EN,2,Ashley Ronquillo ,2,2,3,3,3,2,3,3,3,3,3,3,3,3,3,2,2,2,3,3,3,3,3,2,6,good presentation and interesting to learn about.
+5/5/22 10:22,5/5/22 10:26,0,100,239,1,5/5/22 10:26,R_1gi1D9RrjI19Cea,anonymous,EN,2,Ashley Ronquillo ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:19,5/5/22 10:27,0,100,476,1,5/5/22 10:27,R_3syl5aw1Tou48G8,anonymous,EN,2,Ashley Ronquillo ,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,I like how she add a video as an example for what she did for her internship 
+5/5/22 10:15,5/5/22 10:27,0,100,738,1,5/5/22 10:27,R_2Ev4ozy2pkvtWQc,anonymous,EN,2,Ashley Ronquillo ,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,6,
+5/5/22 10:21,5/5/22 10:28,0,100,404,1,5/5/22 10:28,R_8cgxFgOFUrbn1i9,anonymous,EN,2,Ashley Ronquillo ,2,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:27,5/5/22 10:29,0,100,96,1,5/5/22 10:29,R_eJxdXR0pwHIvs4N,anonymous,EN,2,Katherine Morales,2,2,2,3,2,2,2,2,3,2,3,3,3,3,3,2,3,2,2,2,2,2,2,2,6,
+5/5/22 10:26,5/5/22 10:29,0,100,183,1,5/5/22 10:29,R_2wgyZIBV9IMfrdQ,anonymous,EN,2,Katherine Morales,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 10:28,5/5/22 10:29,0,100,95,1,5/5/22 10:29,R_1jiHF10SVfxn3J5,anonymous,EN,2,Katherine Morales,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:25,5/5/22 10:31,0,100,346,1,5/5/22 10:31,R_urLEIYramKN25YB,anonymous,EN,2,Katherine Morales,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 10:24,5/5/22 10:31,0,100,405,1,5/5/22 10:31,R_2TnqNvd2lb1Uprl,anonymous,EN,2,Katherine Morales,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 10:26,5/5/22 10:31,0,100,288,1,5/5/22 10:31,R_3JwuUmtngDzVbQB,anonymous,EN,2,Katherine Morales,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+5/5/22 10:27,5/5/22 10:38,0,100,678,1,5/5/22 10:38,R_R8IfIhV2naEexH3,anonymous,EN,2,Katherine Morales,3,3,1,3,2,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,1,2,5,"She was knowledgeable on the topic, but was looking down a lot and reading directly off her notecards. "
+5/5/22 10:26,5/5/22 10:38,0,100,750,1,5/5/22 10:38,R_1cYUofLOwn3j5hw,anonymous,EN,2,katherine morales,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+5/5/22 10:27,5/5/22 10:39,0,100,717,1,5/5/22 10:39,R_1erAu89f63yEgaE,anonymous,EN,2,Katherine Morales ,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,she did a good explaining what the research and terms. she did not assume that everyone new the terms that is in the research. She did a good job presenting her example and it was easy to understand. 
+5/5/22 10:26,5/5/22 10:39,0,100,758,1,5/5/22 10:39,R_1PYI6CeyhitaJ8w,anonymous,EN,2,Katherine Morales,2,2,2,1,2,2,2,3,3,3,3,3,3,3,3,2,2,2,3,3,2,3,2,2,4,good presentation just long. 
+5/5/22 10:26,5/5/22 10:39,0,100,792,1,5/5/22 10:39,R_xF3KSa5iB0AtRcJ,anonymous,EN,2,Katherine Morales,3,2,3,2,2,3,3,2,3,3,3,2,2,2,3,3,2,3,2,3,2,3,3,2,6,
+5/5/22 10:27,5/5/22 10:39,0,100,768,1,5/5/22 10:39,R_1BQL529bcLUIz9s,anonymous,EN,2,Katherine Morales,2,3,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Overall great presentation and kept the text and information easy to understand.
+5/5/22 10:11,5/5/22 10:40,0,100,1744,1,5/5/22 10:40,R_3k68a0CQSTjB6mn,anonymous,EN,2,Katherine Morales,3,3,2,2,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,Interesting topic and seemed passionate about it. Maybe not use flashcards so often.
+5/5/22 10:27,5/5/22 10:40,0,100,761,1,5/5/22 10:40,R_VIKkozkCXxQisEh,anonymous,EN,2,Katherine Morales,3,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,6,
+5/5/22 10:27,5/5/22 10:40,0,100,765,1,5/5/22 10:40,R_25sVEEkVSLE2OBe,anonymous,EN,2,Katherine Morales,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:40,5/5/22 10:42,0,100,91,1,5/5/22 10:42,R_2QRNL82WW1XSbuh,anonymous,EN,2,Esther Ruiz,2,2,2,3,3,2,2,2,3,3,3,3,3,3,3,2,3,2,3,2,2,2,2,2,6,
+5/5/22 10:32,5/5/22 10:43,0,100,691,1,5/5/22 10:43,R_23QgmmX4z1PK50d,anonymous,EN,2,Esther Ruiz,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:29,5/5/22 10:43,0,100,868,1,5/5/22 10:43,R_2QLK8a2k5lU63L7,anonymous,EN,2,Esther Ruiz,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 10:29,5/5/22 10:45,0,100,934,1,5/5/22 10:45,R_1gRU1q4Wguip2vy,anonymous,EN,2,Esther Ruiz,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:37,5/5/22 10:46,0,100,509,1,5/5/22 10:46,R_2zPahFzMTpo2t41,anonymous,EN,2,Esther Ruiz,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:31,5/5/22 10:46,0,100,894,1,5/5/22 10:46,R_Y07bzzmImPPtgo9,anonymous,EN,2,Esther Ruiz,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 10:38,5/5/22 10:47,0,100,518,1,5/5/22 10:47,R_b8wXFSY67xaZmo1,anonymous,EN,2,Esther Ruiz,3,3,1,3,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,2,3,5,"Very knowledgeable on internship site. She talked about things that weren't on slides, which was interesting. Could use more samples. "
+5/5/22 10:39,5/5/22 10:47,0,100,467,1,5/5/22 10:47,R_2XjNKe2QWDHW6mm,anonymous,EN,2,Esther Ruiz,3,3,3,3,3,3,3,3,3,2,2,3,2,2,2,2,2,2,3,3,2,3,2,3,6,
+5/5/22 10:40,5/5/22 10:47,0,100,391,1,5/5/22 10:47,R_D37SdTeomvJVte1,anonymous,EN,2,Esther Ruiz,3,3,3,3,3,3,3,3,3,3,3,1,3,3,3,3,3,3,3,3,3,3,2,3,5,"Very knowledgeable of her site and it shows, the presentation could have been a  bit more creative though."
+5/5/22 10:39,5/5/22 10:47,0,100,481,1,5/5/22 10:47,R_XZHFtwD9LqenUel,anonymous,EN,2,Esther Ruiz,3,3,2,2,3,3,2,2,2,3,3,3,2,3,3,2,3,3,2,3,3,2,3,2,6,
+5/5/22 10:40,5/5/22 10:47,0,100,458,1,5/5/22 10:47,R_3KHqpXtKqfbsClC,anonymous,EN,2,Esther Ruiz,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Seemed very happy with her internship. 
+5/5/22 10:41,5/5/22 10:47,0,100,402,1,5/5/22 10:47,R_tLGVKFtuyxxJ2XD,anonymous,EN,2,Esther Ruiz,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 10:27,5/5/22 10:48,0,100,1265,1,5/5/22 10:48,R_3O7wmoKH3YSozIj,anonymous,EN,2,Esther Ruiz,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Ester seem to be very knowledgeable on her internship and it was good that she gave a warning about blood.  
+5/5/22 10:40,5/5/22 10:48,0,100,480,1,5/5/22 10:48,R_2ztHNsB5MCjVOPi,anonymous,EN,2,Esther Ruiz,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 11:46,5/5/22 11:56,0,100,627,1,5/5/22 11:56,R_Rmhv3QbCzYMmizL,anonymous,EN,1,Brendan Jaghab,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,6,
+5/5/22 11:39,5/5/22 11:56,0,100,1029,1,5/5/22 11:56,R_1LuFn8SpKTkPFHQ,anonymous,EN,1,Brendan Jaghab ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 11:37,5/5/22 11:57,0,100,1171,1,5/5/22 11:57,R_29W2reB754Ofldv,anonymous,EN,1,Brendan Jaghab,3,3,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 11:38,5/5/22 11:57,0,100,1113,1,5/5/22 11:57,R_2UfQDL6IIwAQaUl,anonymous,EN,1,Brendan Jaghab,3,3,2,2,2,3,3,3,3,2,3,2,3,3,3,3,2,3,3,3,3,3,3,3,7,
+5/5/22 11:45,5/5/22 11:57,0,100,722,1,5/5/22 11:57,R_24jZCz0VBcQ0SCr,anonymous,EN,1,Brendan Jaghab,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 11:46,5/5/22 11:57,0,100,667,1,5/5/22 11:57,R_3GBUzK3zZuuHTKm,anonymous,EN,1,Brendan Jaghab,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 11:48,5/5/22 11:57,0,100,577,1,5/5/22 11:57,R_9to9z4Qa4f9bh7P,anonymous,EN,1,Brendan Jaghab,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,Brandon was great. Very clear voice and interactive with students.
+5/5/22 11:46,5/5/22 11:57,0,100,646,1,5/5/22 11:57,R_29gewaVDm6cIEve,anonymous,EN,1,Brendan Jaghab,3,3,2,2,3,2,3,3,3,3,3,3,3,2,3,3,3,3,3,3,2,3,2,3,6,
+5/5/22 11:57,5/5/22 12:08,0,100,644,1,5/5/22 12:08,R_1FCU1oVc6zOmnOa,anonymous,EN,1,Tim Nyguen ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 11:57,5/5/22 12:09,0,100,723,1,5/5/22 12:09,R_2BbyWzTtsMfd8LJ,anonymous,EN,1,Tim Nyguen ,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 11:58,5/5/22 12:09,0,100,629,1,5/5/22 12:09,R_3Ezq7ktPgoXURof,anonymous,EN,1,Tim Nyguen ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 11:57,5/5/22 12:09,0,100,719,1,5/5/22 12:09,R_3lM0ZB7qqQtJuTG,anonymous,EN,1,Tim Nyguen ,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 11:59,5/5/22 12:09,0,100,637,1,5/5/22 12:09,R_2tnGjjWyUvyXuso,anonymous,EN,1,Tim Nyguen ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Tim was very well spoken. His presentation was very professional. He engaged the class too which was great.
+5/5/22 11:57,5/5/22 12:09,0,100,743,1,5/5/22 12:09,R_C2eyeZWJfZ0dG6J,anonymous,EN,1,Tim Nyguen ,3,3,3,3,3,3,3,3,2,2,3,2,2,3,3,3,3,3,3,3,3,3,2,3,6,
+5/5/22 11:57,5/5/22 12:09,0,100,751,1,5/5/22 12:09,R_2X0NZxzwM8Orome,anonymous,EN,1,Tim Nyguen ,2,3,2,3,3,3,3,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 11:57,5/5/22 12:10,0,100,772,1,5/5/22 12:10,R_4M8ZunyZtyfc5yx,anonymous,EN,1,Tim Nyguen ,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,6,"tim will have a bright future, he was very educated and had a good flow of words "
+5/5/22 12:09,5/5/22 12:20,0,100,654,1,5/5/22 12:20,R_urHlQAsf8041BKh,anonymous,EN,1,Jessica Cruz,3,3,2,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 12:09,5/5/22 12:20,0,100,657,1,5/5/22 12:20,R_ZjKOD9yUmlotv2h,anonymous,EN,1,Jessica Cruz ,1,3,2,2,3,2,2,3,2,2,3,2,3,3,3,3,3,3,3,3,2,3,2,3,6,
+5/5/22 12:09,5/5/22 12:20,0,100,658,1,5/5/22 12:20,R_7X8zgeEvMuI39AZ,anonymous,EN,1,Jessica Cruz,1,3,2,2,2,2,3,3,3,3,3,2,3,3,3,3,3,3,3,2,3,3,3,2,5,
+5/5/22 11:57,5/5/22 12:21,0,100,1468,1,5/5/22 12:21,R_1dsoWpfIDXTno1X,anonymous,EN,1,Jessica Cruz,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 12:10,5/5/22 12:22,0,100,721,1,5/5/22 12:22,R_1QJWrYTR9BwBYEM,anonymous,EN,1,Jessica Cruz,2,3,3,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,Jessica did a great job. It was really interesting that she was given the responsibility to rate and observe the behaviors in the kids she was watching. I think that is a valuable skill and or experience.
+5/5/22 12:10,5/5/22 12:22,0,100,721,1,5/5/22 12:22,R_3Mrsdq8FJ0M7p19,anonymous,EN,1,Jessica Cruz,2,3,2,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,6,
+5/5/22 12:09,5/5/22 12:22,0,100,800,1,5/5/22 12:22,R_2dLOj48iLhLeeRT,anonymous,EN,1,Jessica Cruz,2,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,2,2,3,3,3,3,6,
+5/5/22 12:12,5/5/22 12:23,0,100,654,1,5/5/22 12:23,R_3ElINGLylXEnp5X,anonymous,EN,1,Jessica Cruz,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,JESSICA WAS VERY INFORMATIVE!
+5/5/22 12:22,5/5/22 12:34,0,100,689,1,5/5/22 12:34,R_2D5mxpt1DP1hjQ8,anonymous,EN,1,Ilyssa Ingio-Tolentino,3,2,2,2,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,2,2,2,5,
+5/5/22 12:22,5/5/22 12:34,0,100,706,1,5/5/22 12:34,R_2VeHVYDr3rr7y6p,anonymous,EN,1,Ilyssa Ingio-Tolentino,2,2,2,2,2,2,3,2,2,3,3,3,3,3,3,3,3,2,3,3,3,3,2,3,6,
+5/5/22 12:24,5/5/22 12:35,0,100,661,1,5/5/22 12:35,R_3LXzeWwQxy8C9N2,anonymous,EN,1,Ilyssa Ingio-Tolentino,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,6,Ilysa's research was very interesting. Especially the differences in cultural perception on attractiveness.
+5/5/22 12:20,5/5/22 12:35,0,100,863,1,5/5/22 12:35,R_1hMBU943CTbJyTa,anonymous,EN,1,Ilyssa Ingio-Tolentino,2,2,1,3,3,3,3,3,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 12:08,5/5/22 12:35,0,100,1632,1,5/5/22 12:35,R_ex5RhJ4WZItGccF,anonymous,EN,1,Ilyssa Ingio-Tolentino,3,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 12:20,5/5/22 12:35,0,100,894,1,5/5/22 12:35,R_3soCfWl5HzMm5ti,anonymous,EN,1,Ilyssa Ingio-Tolentino,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/5/22 12:23,5/5/22 12:36,0,100,771,1,5/5/22 12:36,R_1LkvGVRn9IsK0NE,anonymous,EN,1,Ilyssa Ingio-Tolentino,2,3,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/5/22 12:22,5/5/22 12:36,0,100,816,1,5/5/22 12:36,R_AizK9AXAhJSF9jb,anonymous,EN,1,Ilyssa Ingio-Tolentino,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/10/22 11:40,5/10/22 11:51,0,100,626,1,5/10/22 11:51,R_2rDyd9LBHb2A26p,anonymous,EN,1,Donny LaRosa,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/10/22 11:45,5/10/22 11:51,0,100,341,1,5/10/22 11:51,R_3NwleSlaCJlbSta,anonymous,EN,3,Donny LaRosa,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,I really like that you brought humor into a topic that isn't always interesting to everyone. Great job!
+5/10/22 11:44,5/10/22 11:51,0,100,418,1,5/10/22 11:51,R_1kHcalJG4JrCPO8,anonymous,EN,3,Donny LaRosa,2,3,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/10/22 11:46,5/10/22 11:51,0,100,341,1,5/10/22 11:52,R_cYcDrYCFhReXYPf,anonymous,EN,3,Donny LaRosa,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
+5/10/22 11:43,5/10/22 11:52,0,100,511,1,5/10/22 11:52,R_1LZmAGHP6rMIArI,anonymous,EN,3,Donny LaRosa,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,5,
+5/10/22 11:51,5/10/22 11:58,0,100,438,1,5/10/22 11:58,R_28Sw59ObJW56QAI,anonymous,EN,3,Alexa Emanus,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,
+5/10/22 11:52,5/10/22 11:59,0,100,402,1,5/10/22 11:59,R_2zXZgoWpmvWUk24,anonymous,EN,1,Alexa Emanus,2,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,
+5/10/22 11:52,5/10/22 11:59,0,100,424,1,5/10/22 11:59,R_01XwDHQFC9n6d0J,anonymous,EN,3,Alexa Emanus,2,2,1,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,6,
+5/10/22 11:51,5/10/22 11:59,0,100,453,1,5/10/22 11:59,R_2rkEBkEb6szw0eU,anonymous,EN,3,Alexa Emanus,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,
